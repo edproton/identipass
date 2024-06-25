@@ -6,4 +6,7 @@ Identipass is designed to provide secure and reliable authentication services fo
 
 ## Endpoints
 
-* [/api/auth/register](./docs/endpoints/auth_register.md)
+* [Auth](./docs/endpoints/auth.md)
+  * [/api/auth/register](./docs/endpoints/auth_register.md)
+  * [/api/auth/login](./docs/endpoints/auth_login.md)
+  * 
