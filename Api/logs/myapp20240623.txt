@@ -1,0 +1,15 @@
+2024-06-23 20:59:35.835 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-23 20:59:35.979 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 created refresh token MerPhgaTdEkFf8XXeqyHKxjR/RKWlSa0MG6/8go0rmInqSLdC6QuzGoERVyP8wzFOCOSxFofHT4cSYDHhczhjQ==
+2024-06-23 21:01:03.577 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-23 21:01:03.590 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 created refresh token YTKDaiX78wKxqslmPIvdWofV2xfmu4ZRPdxzcinX0cq8+lprN6YByfHoFMoOVx05zAujVmUmaYDUqcJZ1mWwsg==
+2024-06-23 21:01:29.632 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-23 21:01:29.643 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 created refresh token POvoueCZjgCk6BUlLUkp8b9ikcV25KIbBkA4tIu+SyzG17ePYBbQu5cf2K6Y/8OUZ/1klFR7VuJU3Ip8gHDzBA==
+2024-06-23 21:05:05.010 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-23 21:05:05.019 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 created refresh token L9AR6IddsVMpZ+g6MtR5pCFwnLcsKHrpDyjy8+gH+QMgRmosxILqeHlX7hJrAnTKRJRgJJWDaswqqVckHAPP7A==
+2024-06-23 21:47:05.933 +01:00 [WRN] [Role] Super Admin already exists
+2024-06-23 21:47:28.469 +01:00 [INF] Retrieving all tenants
+2024-06-23 21:47:51.266 +01:00 [INF] [Management] Added user  to role 7d1cb98a-70e8-4752-ae30-ad45288a3cd3
+2024-06-23 21:58:24.242 +01:00 [INF] [Management] Removed user  from role 5739f287-ab56-4f4c-bf04-700fd20fe930
+2024-06-23 22:55:34.442 +01:00 [WRN] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 tried to get me with invalid refresh token fzvgCmVoADO0QOY/XdGrmdEavJTuCjBx4cYKYqtyVHo7T/Zgd1yxuHbMLFQjjhPTVLLFq3hnJXWhARaksmzF+A==
+2024-06-23 23:22:42.383 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-23 23:22:42.394 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 created refresh token a67jv7cyaHOjStm8GGqKIs+VOlhx3YGBLvAR20j9+HEjWB/kLgx2Tqi8IMrBbabeR1Dg+C/Cm43i+cpIeoB4RA==

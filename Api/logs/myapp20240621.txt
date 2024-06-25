@@ -1,0 +1,109 @@
+2024-06-21 04:26:26.384 +01:00 [INF] Retrieving all tenants
+2024-06-21 04:26:58.543 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 registered
+2024-06-21 04:27:02.900 +01:00 [INF] Retrieving all tenants
+2024-06-21 04:27:57.704 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-21 04:28:50.968 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-21 04:30:36.313 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-21 04:51:10.434 +01:00 [INF] [Role] Retrieving all
+2024-06-21 04:53:09.022 +01:00 [INF] [Role] 697d9d68-dd37-4a69-9851-713394144dda created
+2024-06-21 04:53:29.493 +01:00 [INF] [Role] Retrieving all
+2024-06-21 04:54:45.378 +01:00 [INF] [Role] 697d9d68-dd37-4a69-9851-713394144dda updated
+2024-06-21 04:54:51.249 +01:00 [INF] [Role] Retrieving all
+2024-06-21 04:55:04.049 +01:00 [INF] [Role] 697d9d68-dd37-4a69-9851-713394144dda deleted
+2024-06-21 04:55:16.226 +01:00 [INF] [Role] Retrieving all
+2024-06-21 04:55:25.223 +01:00 [INF] [Role] 5739f287-ab56-4f4c-bf04-700fd20fe930 created
+2024-06-21 04:55:30.001 +01:00 [INF] [Role] 7d1cb98a-70e8-4752-ae30-ad45288a3cd3 created
+2024-06-21 04:55:37.716 +01:00 [INF] [Role] Retrieving all
+2024-06-21 05:02:29.028 +01:00 [INF] Retrieving all tenants
+2024-06-21 05:02:33.803 +01:00 [INF] Retrieving all tenants
+2024-06-21 05:04:37.971 +01:00 [INF] [User] d3ce984b-08d6-4afe-972a-53519889ef54 registered
+2024-06-21 05:04:40.409 +01:00 [INF] [User] d56819ff-0d57-4e1e-bc05-884eaf57ee7b registered
+2024-06-21 05:09:10.916 +01:00 [INF] Retrieving all tenants
+2024-06-21 05:13:20.678 +01:00 [INF] Retrieving all tenants
+2024-06-21 05:15:14.676 +01:00 [INF] Retrieving all tenants
+2024-06-21 05:15:35.469 +01:00 [INF] [Role] Retrieving all
+2024-06-21 05:16:10.760 +01:00 [INF] [Management] Added user  to role 7d1cb98a-70e8-4752-ae30-ad45288a3cd3
+2024-06-21 05:16:14.786 +01:00 [INF] [Role] Retrieving all
+2024-06-21 05:16:19.133 +01:00 [INF] Retrieving all tenants
+2024-06-21 05:16:51.173 +01:00 [INF] [Role] bef5d479-2930-49a8-909b-f3c8a43c8bf5 created
+2024-06-21 05:16:56.749 +01:00 [INF] [Role] Retrieving all
+2024-06-21 05:17:06.926 +01:00 [INF] [Management] Added user  to role bef5d479-2930-49a8-909b-f3c8a43c8bf5
+2024-06-21 05:17:15.562 +01:00 [INF] Retrieving all tenants
+2024-06-21 05:18:38.532 +01:00 [INF] [Management] Added user  to role 5739f287-ab56-4f4c-bf04-700fd20fe930
+2024-06-21 05:18:45.365 +01:00 [INF] Retrieving all tenants
+2024-06-21 05:23:54.240 +01:00 [INF] [User] d3ce984b-08d6-4afe-972a-53519889ef54 logged in
+2024-06-21 05:25:11.662 +01:00 [INF] [User] d3ce984b-08d6-4afe-972a-53519889ef54 logged in
+2024-06-21 05:25:36.597 +01:00 [INF] [User] d3ce984b-08d6-4afe-972a-53519889ef54 logged in
+2024-06-21 05:25:52.375 +01:00 [INF] Retrieving all tenants
+2024-06-21 05:26:15.334 +01:00 [INF] Retrieving all tenants
+2024-06-21 05:26:31.562 +01:00 [INF] [User] d3ce984b-08d6-4afe-972a-53519889ef54 logged in
+2024-06-21 05:26:38.211 +01:00 [INF] [User] d3ce984b-08d6-4afe-972a-53519889ef54 logged in
+2024-06-21 05:26:39.664 +01:00 [INF] [User] d3ce984b-08d6-4afe-972a-53519889ef54 logged in
+2024-06-21 05:27:02.796 +01:00 [INF] [User] d3ce984b-08d6-4afe-972a-53519889ef54 logged in
+2024-06-21 05:29:24.175 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-21 05:32:30.643 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-21 05:32:49.565 +01:00 [INF] [User] d3ce984b-08d6-4afe-972a-53519889ef54 logged in
+2024-06-21 06:01:28.681 +01:00 [INF] [Claims] Claim created
+2024-06-21 06:05:39.858 +01:00 [INF] Retrieving all tenants
+2024-06-21 06:06:03.301 +01:00 [INF] [Claims] Added claim tenant to user 
+2024-06-21 06:06:22.514 +01:00 [INF] Retrieving all tenants
+2024-06-21 06:08:11.822 +01:00 [INF] [Claims] Claim created
+2024-06-21 06:08:25.151 +01:00 [INF] Retrieving all tenants
+2024-06-21 06:08:27.791 +01:00 [INF] Retrieving all tenants
+2024-06-21 06:08:53.834 +01:00 [INF] [Claims] Added claim business to user 
+2024-06-21 06:09:42.227 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-21 06:10:49.713 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-21 06:10:59.348 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-21 06:11:18.089 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-21 06:11:56.944 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-21 06:12:47.550 +01:00 [INF] [Claims] Claim created
+2024-06-21 06:13:19.008 +01:00 [INF] [Claims] Added claim business to user 
+2024-06-21 06:13:23.394 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-21 12:14:34.922 +01:00 [INF] [User] d3ce984b-08d6-4afe-972a-53519889ef54 logged in
+2024-06-21 12:33:29.763 +01:00 [INF] [User] d3ce984b-08d6-4afe-972a-53519889ef54 logged in
+2024-06-21 12:35:07.619 +01:00 [INF] [User] d3ce984b-08d6-4afe-972a-53519889ef54 logged in
+2024-06-21 12:36:08.209 +01:00 [INF] [User] d3ce984b-08d6-4afe-972a-53519889ef54 logged in
+2024-06-21 13:02:48.219 +01:00 [INF] [User] d3ce984b-08d6-4afe-972a-53519889ef54 logged in
+2024-06-21 15:01:10.827 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-21 15:05:28.709 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-21 16:56:24.301 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-21 17:58:41.797 +01:00 [INF] [User] d3ce984b-08d6-4afe-972a-53519889ef54 logged in
+2024-06-21 17:59:40.532 +01:00 [INF] [User] d3ce984b-08d6-4afe-972a-53519889ef54 logged in
+2024-06-21 19:13:09.569 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-21 19:13:09.731 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 created refresh token eaLHH/AAtgbn5771erp8UrfQq2s9+7HLnU0V+ZexU+c37phj5Uko1tyYEAEQsgCIQds1YeN11bzWUdFx5B/YZw==
+2024-06-21 19:16:04.515 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 revoked refresh token eaLHH/AAtgbn5771erp8UrfQq2s9+7HLnU0V+ZexU+c37phj5Uko1tyYEAEQsgCIQds1YeN11bzWUdFx5B/YZw==
+2024-06-21 19:16:04.522 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 created refresh token pzzzuMjvagbn3oUNq+sPM9NehSh0EH7cAdp9sQOXy94o7K/KCTpnvpQokH067LfmlzkK2lt7DRaygoLZcRFB/w==
+2024-06-21 19:18:00.260 +01:00 [WRN] [User] 3fa85f64-5717-4562-b3fc-2c963f66afa6 tried to revoke invalid refresh token eaLHH/AAtgbn5771erp8UrfQq2s9+7HLnU0V+ZexU+c37phj5Uko1tyYEAEQsgCIQds1YeN11bzWUdFx5B/YZw==
+2024-06-21 19:18:15.555 +01:00 [WRN] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 tried to revoke already revoked refresh token eaLHH/AAtgbn5771erp8UrfQq2s9+7HLnU0V+ZexU+c37phj5Uko1tyYEAEQsgCIQds1YeN11bzWUdFx5B/YZw==
+2024-06-21 19:18:18.225 +01:00 [WRN] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 tried to revoke already revoked refresh token eaLHH/AAtgbn5771erp8UrfQq2s9+7HLnU0V+ZexU+c37phj5Uko1tyYEAEQsgCIQds1YeN11bzWUdFx5B/YZw==
+2024-06-21 19:18:25.848 +01:00 [WRN] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 tried to refresh with revoked refresh token eaLHH/AAtgbn5771erp8UrfQq2s9+7HLnU0V+ZexU+c37phj5Uko1tyYEAEQsgCIQds1YeN11bzWUdFx5B/YZw==
+2024-06-21 19:18:31.462 +01:00 [WRN] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 tried to revoke already revoked refresh token eaLHH/AAtgbn5771erp8UrfQq2s9+7HLnU0V+ZexU+c37phj5Uko1tyYEAEQsgCIQds1YeN11bzWUdFx5B/YZw==
+2024-06-21 19:18:41.178 +01:00 [WRN] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 tried to refresh with revoked refresh token eaLHH/AAtgbn5771erp8UrfQq2s9+7HLnU0V+ZexU+c37phj5Uko1tyYEAEQsgCIQds1YeN11bzWUdFx5B/YZw==
+2024-06-21 19:18:50.207 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-21 19:18:50.214 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 created refresh token 55Z6g6LuNgjQ9KMgq7VqD0z9J5XsOvFcgxAk0bAu92kEf2bdGU2gmNAtzjadiG1q4QFcMh2mgml7081cfOFyvA==
+2024-06-21 19:19:01.311 +01:00 [WRN] [User] 00000000-0000-0000-0000-000000000000 tried to revoke invalid refresh token 55Z6g6LuNgjQ9KMgq7VqD0z9J5XsOvFcgxAk0bAu92kEf2bdGU2gmNAtzjadiG1q4QFcMh2mgml7081cfOFyvA==
+2024-06-21 19:19:16.041 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 revoked refresh token 55Z6g6LuNgjQ9KMgq7VqD0z9J5XsOvFcgxAk0bAu92kEf2bdGU2gmNAtzjadiG1q4QFcMh2mgml7081cfOFyvA==
+2024-06-21 19:19:19.202 +01:00 [WRN] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 tried to revoke already revoked refresh token 55Z6g6LuNgjQ9KMgq7VqD0z9J5XsOvFcgxAk0bAu92kEf2bdGU2gmNAtzjadiG1q4QFcMh2mgml7081cfOFyvA==
+2024-06-21 19:24:05.617 +01:00 [WRN] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 tried to revoke already revoked refresh token 55Z6g6LuNgjQ9KMgq7VqD0z9J5XsOvFcgxAk0bAu92kEf2bdGU2gmNAtzjadiG1q4QFcMh2mgml7081cfOFyvA==
+2024-06-21 19:24:11.028 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-21 19:24:11.141 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 created refresh token fzvgCmVoADO0QOY/XdGrmdEavJTuCjBx4cYKYqtyVHo7T/Zgd1yxuHbMLFQjjhPTVLLFq3hnJXWhARaksmzF+A==
+2024-06-21 19:33:14.927 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 revoked refresh token fzvgCmVoADO0QOY/XdGrmdEavJTuCjBx4cYKYqtyVHo7T/Zgd1yxuHbMLFQjjhPTVLLFq3hnJXWhARaksmzF+A==
+2024-06-21 19:33:56.776 +01:00 [WRN] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 tried to get me with invalid refresh token fzvgCmVoADO0QOY/XdGrmdEavJTuCjBx4cYKYqtyVHo7T/Zgd1yxuHbMLFQjjhPTVLLFq3hnJXWhARaksmzF+A==
+2024-06-21 19:45:27.455 +01:00 [WRN] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 tried to get me with invalid refresh token fzvgCmVoADO0QOY/XdGrmdEavJTuCjBx4cYKYqtyVHo7T/Zgd1yxuHbMLFQjjhPTVLLFq3hnJXWhARaksmzF+A==
+2024-06-21 20:29:41.076 +01:00 [WRN] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 tried to get me with invalid refresh token fzvgCmVoADO0QOY/XdGrmdEavJTuCjBx4cYKYqtyVHo7T/Zgd1yxuHbMLFQjjhPTVLLFq3hnJXWhARaksmzF+A==
+2024-06-21 20:29:54.909 +01:00 [WRN] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 tried to revoke already revoked refresh token fzvgCmVoADO0QOY/XdGrmdEavJTuCjBx4cYKYqtyVHo7T/Zgd1yxuHbMLFQjjhPTVLLFq3hnJXWhARaksmzF+A==
+2024-06-21 20:31:15.614 +01:00 [WRN] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 tried to get me with invalid refresh token fzvgCmVoADO0QOY/XdGrmdEavJTuCjBx4cYKYqtyVHo7T/Zgd1yxuHbMLFQjjhPTVLLFq3hnJXWhARaksmzF+A==
+2024-06-21 20:37:44.319 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-21 20:37:44.409 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 created refresh token YcI6MQ0y3aPVrIxWSGRQONQIIZSXPQS1QQVHEdABD4QLN2UzBkKv+Awuh1VV6sxCfjemkXb8e1jJDEVT4okhcA==
+2024-06-21 20:38:16.687 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-21 20:38:16.698 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 created refresh token /VEJbxRp6vF38mfN69vtQritXyLkiWE+brLmBkuGe2lKW6+21FR/yWvwpU6q/3w+O2WIo4h0VL2kTFcHCtIqZQ==
+2024-06-21 21:46:01.119 +01:00 [WRN] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 tried to get me with invalid refresh token fzvgCmVoADO0QOY/XdGrmdEavJTuCjBx4cYKYqtyVHo7T/Zgd1yxuHbMLFQjjhPTVLLFq3hnJXWhARaksmzF+A==
+2024-06-21 21:46:01.940 +01:00 [WRN] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 tried to get me with invalid refresh token fzvgCmVoADO0QOY/XdGrmdEavJTuCjBx4cYKYqtyVHo7T/Zgd1yxuHbMLFQjjhPTVLLFq3hnJXWhARaksmzF+A==
+2024-06-21 21:52:16.902 +01:00 [WRN] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 tried to get me with invalid refresh token fzvgCmVoADO0QOY/XdGrmdEavJTuCjBx4cYKYqtyVHo7T/Zgd1yxuHbMLFQjjhPTVLLFq3hnJXWhARaksmzF+A==
+2024-06-21 21:52:51.019 +01:00 [WRN] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 tried to revoke already revoked refresh token fzvgCmVoADO0QOY/XdGrmdEavJTuCjBx4cYKYqtyVHo7T/Zgd1yxuHbMLFQjjhPTVLLFq3hnJXWhARaksmzF+A==
+2024-06-21 21:53:06.373 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 revoked refresh token /VEJbxRp6vF38mfN69vtQritXyLkiWE+brLmBkuGe2lKW6+21FR/yWvwpU6q/3w+O2WIo4h0VL2kTFcHCtIqZQ==
+2024-06-21 21:53:11.627 +01:00 [WRN] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 tried to get me with invalid refresh token /VEJbxRp6vF38mfN69vtQritXyLkiWE+brLmBkuGe2lKW6+21FR/yWvwpU6q/3w+O2WIo4h0VL2kTFcHCtIqZQ==
+2024-06-21 21:53:14.214 +01:00 [WRN] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 tried to get me with invalid refresh token /VEJbxRp6vF38mfN69vtQritXyLkiWE+brLmBkuGe2lKW6+21FR/yWvwpU6q/3w+O2WIo4h0VL2kTFcHCtIqZQ==
+2024-06-21 21:53:21.775 +01:00 [WRN] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 tried to get me with invalid refresh token /VEJbxRp6vF38mfN69vtQritXyLkiWE+brLmBkuGe2lKW6+21FR/yWvwpU6q/3w+O2WIo4h0VL2kTFcHCtIqZQ==
+2024-06-21 21:54:26.985 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-21 21:54:26.995 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 created refresh token 2DSWDbnNO/IRsuSnf0ET1+hw4VKf8v4GbAh+Ie7AOIuexF9MKvEEgeWgs/q0WzUH9U0Q22yzB3AOGrKOoUPQDw==

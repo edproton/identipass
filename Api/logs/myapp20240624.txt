@@ -1,0 +1,9 @@
+2024-06-24 00:16:26.645 +01:00 [WRN] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 tried to get me with invalid refresh token fzvgCmVoADO0QOY/XdGrmdEavJTuCjBx4cYKYqtyVHo7T/Zgd1yxuHbMLFQjjhPTVLLFq3hnJXWhARaksmzF+A==
+2024-06-24 00:55:14.488 +01:00 [WRN] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 tried to get me with invalid refresh token fzvgCmVoADO0QOY/XdGrmdEavJTuCjBx4cYKYqtyVHo7T/Zgd1yxuHbMLFQjjhPTVLLFq3hnJXWhARaksmzF+A==
+2024-06-24 00:55:47.716 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-24 00:55:47.724 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 created refresh token +enLN9ufGs/NpdoUyp6FtXlRLVeFuTlm8PmD0GpejPkh7+j/2cZxE8Fyca7noHlyitS8TABfUKzKqdsAcHTnZw==
+2024-06-24 00:56:33.563 +01:00 [INF] [Role] Retrieving all
+2024-06-24 00:56:58.892 +01:00 [INF] Retrieving all tenants
+2024-06-24 01:02:41.244 +01:00 [WRN] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 tried to get me with invalid refresh token fzvgCmVoADO0QOY/XdGrmdEavJTuCjBx4cYKYqtyVHo7T/Zgd1yxuHbMLFQjjhPTVLLFq3hnJXWhARaksmzF+A==
+2024-06-24 17:32:59.776 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 logged in
+2024-06-24 17:32:59.959 +01:00 [INF] [User] f7f6bb6b-d477-4d98-b92f-4b2b59bb8249 created refresh token pWU/oG1SQsvKM4YG7VDCpVtQg8VSlNBD3oHQFST+VBIG36JcwofzDJFoRsO7htLU8S59ZHjiF3tCnTtchwRNiA==
