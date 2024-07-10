@@ -50,7 +50,4 @@ public class ManagementController(
 
         return result.IsSuccess ? Created() : result.ToActionResult();
     }
-    
-    // TODO: Create initial user named root@root.com with root password
-    // with Root role and then the user can rename the role and assign it to other users
 }

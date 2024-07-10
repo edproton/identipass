@@ -10,9 +10,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4aa3e0b0-841a-4d82-b905-07bb248c7e0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/endpoints/auth_login.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.identipass/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.identipass/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.identipass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.identipass/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api/Controllers/ManagementController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Api/Controllers/ManagementController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infra/DependencyInjection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infra/DependencyInjection.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Infra/Repositories/AppDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infra/Repositories/AppDbContext.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +45,7 @@
     <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/dotnet/runtime/5535e31a712343a63f5d7d796cd874e563e5ac14/src/libraries/Microsoft.Extensions.DependencyInjection/src/ServiceProvider.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d3a451850004403293b134b9fe18ce3fc8f920/ae/691f34fb/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/d99050268fb24ce2b3dcef5e5237a50118918/43/36bfaf69/ClaimTypes.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/hashproton/RiderProjects/identipass/Infra/Repositories/AppDbContext.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
@@ -62,7 +65,7 @@
   &quot;keyToString&quot;: {
     &quot;.NET Launch Settings Profile.Api: http.executor&quot;: &quot;Debug&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -153,6 +156,15 @@
       <workItem from="1719172461357" duration="6267000" />
       <workItem from="1719246631180" duration="2325000" />
       <workItem from="1719313590006" duration="1183000" />
+      <workItem from="1719494890540" duration="648000" />
+      <workItem from="1719842804614" duration="773000" />
+      <workItem from="1719851082780" duration="1378000" />
+      <workItem from="1720452121655" duration="1191000" />
+      <workItem from="1720567894710" duration="2662000" />
+      <workItem from="1720601307573" duration="581000" />
+      <workItem from="1720617706129" duration="2539000" />
+      <workItem from="1720624388828" duration="2001000" />
+      <workItem from="1720632407530" duration="2185000" />
     </task>
     <task id="LOCAL-00001" summary="Git commit fire 🔥">
       <option name="closed" value="true" />

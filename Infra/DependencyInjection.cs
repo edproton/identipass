@@ -33,6 +33,25 @@ public static class DependencyInjection
             using var context = services.BuildServiceProvider().GetService<AppDbContext>()!;
 
             context.Database.Migrate();
+
+            if (!context.Set<User>().Any() && !context.Set<Role>().Any())
+            {
+                var role = new Role
+                {
+                    Id = Guid.NewGuid(),
+                    Name = "System Admin",
+                };
+
+                context.Set<Role>().Add(role);
+                context.Set<User>().Add(new User
+                {
+                    Email = "root@root.com",
+                    Password = BCrypt.Net.BCrypt.HashPassword("root"),
+                    Roles = [role]
+                });
+
+                context.SaveChanges();
+            }
         }
 
         return services;
