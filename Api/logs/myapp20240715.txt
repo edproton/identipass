@@ -1,0 +1,11 @@
+2024-07-15 21:58:33.742 +01:00 [INF] [User] 4ef1c711-06ff-41ea-888a-456579e447d6 registered
+2024-07-15 22:18:04.919 +01:00 [INF] [User] 4ef1c711-06ff-41ea-888a-456579e447d6 logged in
+2024-07-15 22:18:05.062 +01:00 [INF] [User] 4ef1c711-06ff-41ea-888a-456579e447d6 created refresh token k5XNdpK+DPEeOPmGfB4h5q5kY+YJFXjbsnRFUbBqYySCpujm7L7szEu3YDOYRR4RnGWrZa9NNMTaLU0lytJMEQ==
+2024-07-15 22:24:09.518 +01:00 [INF] [User] 4ef1c711-06ff-41ea-888a-456579e447d6 logged in
+2024-07-15 22:24:09.530 +01:00 [INF] [User] 4ef1c711-06ff-41ea-888a-456579e447d6 created refresh token bSiwLoqiZF0ZatZpNHoDeEntfvyT4GZWRWAr0u1r7NNxeeWzMph7kDbWzi2kgyM+QYleL/F8U5JniSyHQEdTEg==
+2024-07-15 22:26:09.711 +01:00 [INF] [User] 4ef1c711-06ff-41ea-888a-456579e447d6 revoked refresh token bSiwLoqiZF0ZatZpNHoDeEntfvyT4GZWRWAr0u1r7NNxeeWzMph7kDbWzi2kgyM+QYleL/F8U5JniSyHQEdTEg==
+2024-07-15 22:26:09.722 +01:00 [INF] [User] 4ef1c711-06ff-41ea-888a-456579e447d6 created refresh token WJ2gJGMQ74PZORWUAYz0FVv+hsnEW0wxI7bY/JkbRTPq5POZg26Zlitl44sf33KBqyGmeQOgBw5KfvFvnLlv5Q==
+2024-07-15 22:29:30.381 +01:00 [WRN] [User] 4ef1c711-06ff-41ea-888a-456579e447d6 tried to refresh with revoked refresh token bSiwLoqiZF0ZatZpNHoDeEntfvyT4GZWRWAr0u1r7NNxeeWzMph7kDbWzi2kgyM+QYleL/F8U5JniSyHQEdTEg==
+2024-07-15 22:31:03.569 +01:00 [WRN] [User] 4ef1c711-06ff-41ea-888a-456579e447d6 tried to refresh with revoked refresh token bSiwLoqiZF0ZatZpNHoDeEntfvyT4GZWRWAr0u1r7NNxeeWzMph7kDbWzi2kgyM+QYleL/F8U5JniSyHQEdTEg==
+2024-07-15 22:31:08.082 +01:00 [INF] [User] 4ef1c711-06ff-41ea-888a-456579e447d6 logged in
+2024-07-15 22:31:08.092 +01:00 [INF] [User] 4ef1c711-06ff-41ea-888a-456579e447d6 created refresh token +QE51gowNwjWmk9b0EgvOPNsCGA1XA6nhs8MTipPXT0FpAz0zszBq6F0y172QJ66479jBUgzzWtNHgO7C4PJnw==

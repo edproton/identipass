@@ -10,11 +10,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4aa3e0b0-841a-4d82-b905-07bb248c7e0f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.identipass/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.identipass/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.identipass/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.identipass/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Api/Controllers/ManagementController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Api/Controllers/ManagementController.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infra/DependencyInjection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infra/DependencyInjection.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Infra/Repositories/AppDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Infra/Repositories/AppDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api/Extensions/ResultExtensions.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Api/Extensions/ResultExtensions.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/Errors/UsersErrors.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Application/Errors/UsersErrors.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/UseCases/Auth/Commands/LoginUserCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Application/UseCases/Auth/Commands/LoginUserCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/UseCases/Auth/Commands/RegisterUserCommand.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Application/UseCases/Auth/Commands/RegisterUserCommand.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Application/UseCases/Auth/Queries/GetMe.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Application/UseCases/Auth/Queries/GetMe.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,6 +166,9 @@
       <workItem from="1720617706129" duration="2539000" />
       <workItem from="1720624388828" duration="2001000" />
       <workItem from="1720632407530" duration="2185000" />
+      <workItem from="1720802464282" duration="1888000" />
+      <workItem from="1720806295268" duration="5449000" />
+      <workItem from="1721072354389" duration="3726000" />
     </task>
     <task id="LOCAL-00001" summary="Git commit fire 🔥">
       <option name="closed" value="true" />

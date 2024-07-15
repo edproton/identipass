@@ -2,9 +2,11 @@ namespace Application.Errors;
 
 public static class UserErrors
 {
-    public static Error EmailAlreadyExists(string email) => Error.Conflict("email_already_exists", $"Email {email} already exists");
+    public static Error EmailAlreadyTaken => Error.Conflict("email_already_taken", "Email already taken");
 
     public static Error InvalidCredentials => Error.Validation("invalid_credentials", "Invalid credentials");
+    
+    public static Error UsernameAlreadyTaken => Error.Conflict("username_already_taken", $"Username already taken");
     
     public static Error PasswordsDoNotMatch => Error.Validation("passwords_do_not_match", "Passwords do not match");
 
@@ -39,7 +41,7 @@ public static class ClaimErrors
 
 public static class RefreshTokensErrors
 {
-    public static Error InvalidRefreshToken(string refreshToken) => Error.NotFound("invalid_refresh_token", $"Invalid refresh token {refreshToken}");
+    public static Error InvalidRefreshToken => Error.NotFound("invalid_refresh_token", $"Invalid refresh token");
     
     public static Error RefreshTokenNotFound(string refreshToken) => Error.NotFound("refresh_token_not_found", $"Refresh token {refreshToken} not found");
 }

@@ -25,14 +25,13 @@ public class GetMeQueryHandler(
         {
             logger.LogWarning($"[User] {userId} tried to get me with invalid refresh token {request.RefreshToken}");
 
-            return Result.Failure<GetMeQueryResponse>(RefreshTokensErrors.InvalidRefreshToken(request.RefreshToken));
+            return Result.Failure<GetMeQueryResponse>(RefreshTokensErrors.InvalidRefreshToken);
         }
 
         return Result.Success(new GetMeQueryResponse(
             user.Id,
             user.Email,
-            user.FirstName,
-            user.LastName,
+            user.Username,
             user.Roles.Select(r => r.Name),
             user.Claims.Select(c => new GetMeQueryClaimResponse(c.Type, c.Value))));
     }
@@ -45,8 +44,7 @@ public record GetMeQueryClaimResponse(
 public record GetMeQueryResponse(
     Guid Id,
     string Email,
-    string? FirstName,
-    string? LastName,
+    string? Username,
     IEnumerable<string> Roles,
     IEnumerable<GetMeQueryClaimResponse> Claims);
     

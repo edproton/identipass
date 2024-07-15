@@ -3,8 +3,7 @@
 namespace Application.UseCases.Auth.Commands;
 
 public record LoginUserCommand(
-    string? Username,
-    string Email,
+    string? UsernameOrEmail,
     string Password) : IRequest<Result<LoginUserCommandResponse>>;
 
 public class LoginUserCommandHandler(
@@ -18,14 +17,16 @@ public class LoginUserCommandHandler(
         LoginUserCommand request,
         CancellationToken cancellationToken)
     {
-        if (string.IsNullOrEmpty(request.Username) && string.IsNullOrEmpty(request.Email))
+        if (string.IsNullOrEmpty(request.UsernameOrEmail))
         {
             return Result.Failure<LoginUserCommandResponse>(UserErrors.UsernameOrEmailRequired);
         }
-
-        var user = string.IsNullOrEmpty(request.Username)
-            ? await usersRepository.GetUserByEmail(request.Email, cancellationToken)
-            : await usersRepository.GetUserByUsername(request.Username, cancellationToken);
+        
+        var isEmail = request.UsernameOrEmail.Contains("@");
+        
+        var user = isEmail
+            ? await usersRepository.GetUserByEmail(request.UsernameOrEmail, cancellationToken)
+            : await usersRepository.GetUserByUsername(request.UsernameOrEmail, cancellationToken);
 
         if (user is null)
         {

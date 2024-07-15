@@ -1,0 +1,9 @@
+2024-07-10 00:36:53.663 +01:00 [INF] [User] b18b4811-eba0-4508-b862-b20eab43a674 logged in
+2024-07-10 00:36:53.773 +01:00 [INF] [User] b18b4811-eba0-4508-b862-b20eab43a674 created refresh token 1tFzWFARQugMBWhvIcBDkSYygv68MstrArsXWlpHBkzLEyHWPB3cvBuA2LaUhj1XYinjT94JN7T7h7gWtqkCZA==
+2024-07-10 00:37:18.892 +01:00 [INF] [Role] Retrieving all
+2024-07-10 00:37:47.911 +01:00 [INF] [Role] e9373031-3c8a-49a3-a2f9-6175c00b7788 updated
+2024-07-10 00:37:52.171 +01:00 [INF] [Role] Retrieving all
+2024-07-10 00:38:33.516 +01:00 [INF] [User] 87bb1d59-2519-498b-82cf-2ea4a485c4e7 registered
+2024-07-10 00:39:57.304 +01:00 [INF] [User] 87bb1d59-2519-498b-82cf-2ea4a485c4e7 logged in
+2024-07-10 00:39:57.314 +01:00 [INF] [User] 87bb1d59-2519-498b-82cf-2ea4a485c4e7 created refresh token 5I7e2627z/RFfHK9dMI+LubwBLv3MKxLbkqLvNFsXvugot4cPSpFlM2RBwYsBvYbR1gkBtMjYbm7voE11+tzdA==
+2024-07-10 00:42:07.662 +01:00 [INF] [Management] Added user eduard to role e9373031-3c8a-49a3-a2f9-6175c00b7788

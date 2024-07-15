@@ -1,0 +1,49 @@
+2024-07-12 17:46:51.472 +01:00 [INF] [User] 87bb1d59-2519-498b-82cf-2ea4a485c4e7 logged in
+2024-07-12 17:46:51.646 +01:00 [INF] [User] 87bb1d59-2519-498b-82cf-2ea4a485c4e7 created refresh token YSyvoj6AaKEvAJrvNh9FczEIA+BLC4dSCxpwggYzDwbDS7Zh20hVS9PZOASnjDb9VpIJ6gYqFnFCobadOAKRyQ==
+2024-07-12 17:57:28.004 +01:00 [INF] [User] 87bb1d59-2519-498b-82cf-2ea4a485c4e7 logged in
+2024-07-12 17:57:28.015 +01:00 [INF] [User] 87bb1d59-2519-498b-82cf-2ea4a485c4e7 created refresh token k6ID5t15a9kvH7Tfo7oBvLafsWIsm5VTtb/XLjMP3SYcSLTMqyV3rGELkuvwx2kbo9qAbPmgY8s5DZ/OFf5H6Q==
+2024-07-12 17:58:15.550 +01:00 [INF] [User] 87bb1d59-2519-498b-82cf-2ea4a485c4e7 logged in
+2024-07-12 17:58:15.561 +01:00 [INF] [User] 87bb1d59-2519-498b-82cf-2ea4a485c4e7 created refresh token JAlvShYVVJZo/sCegkt8TbEGy4gNyxABuLIUf5uREd9snT+tNE1J3+I0VUXCz/wnPLyx52tuB1xUebs2ZhuTmA==
+2024-07-12 18:47:01.828 +01:00 [INF] [User] 87bb1d59-2519-498b-82cf-2ea4a485c4e7 logged in
+2024-07-12 18:47:02.025 +01:00 [INF] [User] 87bb1d59-2519-498b-82cf-2ea4a485c4e7 created refresh token HPv+aQQLDahwUVtFowgM8BcFFrfqXTRxSdQHDPTI9c9oL1aYnHS8fBJJOoRNvbXmeyFV6FclBOU7oknq1zyKwg==
+2024-07-12 18:47:38.662 +01:00 [INF] [User] 87bb1d59-2519-498b-82cf-2ea4a485c4e7 logged in
+2024-07-12 18:47:38.672 +01:00 [INF] [User] 87bb1d59-2519-498b-82cf-2ea4a485c4e7 created refresh token arUI3A8a4NTWS4pHWsIDghfo4o8jxqNdXeZQozrwI9/lUn/i5+kVZYRVw5OeuP066rceArXmuqWycFnA9aJGeQ==
+2024-07-12 18:50:27.889 +01:00 [INF] [User] 87bb1d59-2519-498b-82cf-2ea4a485c4e7 logged in
+2024-07-12 18:50:27.898 +01:00 [INF] [User] 87bb1d59-2519-498b-82cf-2ea4a485c4e7 created refresh token u/TrXt2pmZqndVOFCkhma8GmeIFuDYEdoAy45g9lJMhZWd+3gCuQB8ICAYZRLmtO91Yd705WlCyW0Ax9THZ6DA==
+2024-07-12 18:53:27.381 +01:00 [INF] [User] 87bb1d59-2519-498b-82cf-2ea4a485c4e7 logged in
+2024-07-12 18:53:27.390 +01:00 [INF] [User] 87bb1d59-2519-498b-82cf-2ea4a485c4e7 created refresh token 5oCZZC2dPO5otHM2wFwrtMf84IBmBp9TbfOFy832JL5vuW5QF8wXiTmUqDR0YFJVl+JfIhq/1YyvkFQnvtiqMg==
+2024-07-12 18:53:34.188 +01:00 [INF] [User] 87bb1d59-2519-498b-82cf-2ea4a485c4e7 logged in
+2024-07-12 18:53:34.196 +01:00 [INF] [User] 87bb1d59-2519-498b-82cf-2ea4a485c4e7 created refresh token QNWeY+iYqEFY4L3Cd8mO9GYip4VRcr9s8T/GKogano0gQB86kCDGcC5FOWzmC9AexvV+VabHwumP4r/6ovOHPA==
+2024-07-12 18:53:44.540 +01:00 [INF] [User] 87bb1d59-2519-498b-82cf-2ea4a485c4e7 logged in
+2024-07-12 18:53:44.550 +01:00 [INF] [User] 87bb1d59-2519-498b-82cf-2ea4a485c4e7 created refresh token Imr/VDU3JD38m+iUJJO45SbxaFqVEnC8CxOhIGzc9F9JvHB6LEvdPuhZ5RpYKwkAGa30SrOOQzbxmTDya4IlFA==
+2024-07-12 18:55:25.712 +01:00 [INF] Retrieving all tenants
+2024-07-12 18:55:30.186 +01:00 [INF] Retrieving all tenants
+2024-07-12 18:57:29.399 +01:00 [INF] [User] b18b4811-eba0-4508-b862-b20eab43a674 logged in
+2024-07-12 18:57:29.493 +01:00 [INF] [User] b18b4811-eba0-4508-b862-b20eab43a674 created refresh token vCqteRd025lze3LFyMcYz3JdI95bSdYEIWpiekvG4JelrXlLkoYymaUsKQM9anu55sGS2Del2uFih3iJbfA69Q==
+2024-07-12 19:35:38.789 +01:00 [INF] [User] b18b4811-eba0-4508-b862-b20eab43a674 logged in
+2024-07-12 19:35:38.798 +01:00 [INF] [User] b18b4811-eba0-4508-b862-b20eab43a674 created refresh token 1qRwqhZlYSckRiU7YxuPPNJjgOHTAFT9nDLrPlHIH7fmK5oAXMpb4BSfDka0RuH+WjECFGAfIBfLDr5OxZd4Gw==
+2024-07-12 21:36:54.775 +01:00 [INF] [User] b18b4811-eba0-4508-b862-b20eab43a674 logged in
+2024-07-12 21:36:54.784 +01:00 [INF] [User] b18b4811-eba0-4508-b862-b20eab43a674 created refresh token ZffyaAugUvUMbowKIZKMobHxJOAzjbiY9BRBUsY8VtHuk8PN+ufdmkrnnITRuxTkdwKl2vswFkzy3ETQXRn7vw==
+2024-07-12 21:37:05.262 +01:00 [INF] [User] b18b4811-eba0-4508-b862-b20eab43a674 logged in
+2024-07-12 21:37:05.272 +01:00 [INF] [User] b18b4811-eba0-4508-b862-b20eab43a674 created refresh token +HKJVQXqb/sizFlnEDeVfkgt0HUGhDRJdgYNFV8qUwjwj+WMVdwMQmH8C+TE3/Tqe1T7K/JF3Any4TTnQ0aQ4A==
+2024-07-12 21:39:49.972 +01:00 [INF] Retrieving all tenants
+2024-07-12 21:40:05.513 +01:00 [INF] [User] b18b4811-eba0-4508-b862-b20eab43a674 logged in
+2024-07-12 21:40:05.525 +01:00 [INF] [User] b18b4811-eba0-4508-b862-b20eab43a674 created refresh token KkkVUx3o3HbaTX+HOX0xyN4RL2HiLSLMXV3xMSsZJCDbVMTz0qK99lHFHbFdUOlg5m8+Z1mEEMdHXzP9Q48xwg==
+2024-07-12 21:40:23.453 +01:00 [INF] [User] 9509fe09-27ec-4d8d-b00b-4644c79df1c7 registered
+2024-07-12 21:40:35.230 +01:00 [INF] [User] 9509fe09-27ec-4d8d-b00b-4644c79df1c7 logged in
+2024-07-12 21:40:35.240 +01:00 [INF] [User] 9509fe09-27ec-4d8d-b00b-4644c79df1c7 created refresh token 0AS3PYmS1BgMkdgibbkWRWVI/J6ppTKYv0EnX2HBSmSMbLNqiqBMCvdKikuBgpWlN9EG7mNcbf0Hp5GoqqYKIg==
+2024-07-12 21:41:54.134 +01:00 [WRN] [User] 9509fe09-27ec-4d8d-b00b-4644c79df1c7 tried to get me with invalid refresh token SFbdSlp3MaIYK4pNEqu6K7gzIOilsVCqQt6pWezrzAtPB+sS13JTlBAZmiyIKP78Uag//gowKCTONp1MaJ3yeQ==
+2024-07-12 21:42:14.277 +01:00 [WRN] [Role] Super Admin already exists
+2024-07-12 21:42:30.433 +01:00 [INF] [Role] 87ac430b-fddf-4228-b65d-9b2d13807865 created
+2024-07-12 21:42:53.290 +01:00 [INF] [Management] Added user serjux to role 87ac430b-fddf-4228-b65d-9b2d13807865
+2024-07-12 21:43:02.376 +01:00 [INF] Retrieving all tenants
+2024-07-12 21:48:28.537 +01:00 [INF] [User] b18b4811-eba0-4508-b862-b20eab43a674 logged in
+2024-07-12 21:48:28.572 +01:00 [INF] [User] b18b4811-eba0-4508-b862-b20eab43a674 created refresh token 5w7QYJZvaPYDoMxNY7+aOVRCU5xTnFgZlRP8EeoqObuZcoZMutmYtSrUo3O0hpezxugV/pRw32DSDPZF7aaxZQ==
+2024-07-12 21:48:37.863 +01:00 [WRN] [User] b18b4811-eba0-4508-b862-b20eab43a674 tried to get me with invalid refresh token 0AS3PYmS1BgMkdgibbkWRWVI/J6ppTKYv0EnX2HBSmSMbLNqiqBMCvdKikuBgpWlN9EG7mNcbf0Hp5GoqqYKIg==
+2024-07-12 21:49:45.244 +01:00 [INF] [Management] Added user  to role 87ac430b-fddf-4228-b65d-9b2d13807865
+2024-07-12 21:50:10.544 +01:00 [INF] [Management] Removed user  from role 87ac430b-fddf-4228-b65d-9b2d13807865
+2024-07-12 21:50:39.251 +01:00 [INF] [Management] Added user  to role 87ac430b-fddf-4228-b65d-9b2d13807865
+2024-07-12 21:50:49.251 +01:00 [INF] [User] b18b4811-eba0-4508-b862-b20eab43a674 logged in
+2024-07-12 21:50:49.263 +01:00 [INF] [User] b18b4811-eba0-4508-b862-b20eab43a674 created refresh token nT1OSXKZUZOv9PokTuIoiMY7w5NdhVJ9AevEcKg/2ABhkOuBXuBZlL2GXXBCIgyICNn43JBPsETbJbqqYVTurQ==
+2024-07-12 21:57:03.984 +01:00 [INF] [User] b18b4811-eba0-4508-b862-b20eab43a674 logged in
+2024-07-12 21:57:03.996 +01:00 [INF] [User] b18b4811-eba0-4508-b862-b20eab43a674 created refresh token 14XyAgN8RObGtbEx+KFFNVbQCGwGDaHJOb9MkDm1kyWU7/WESFJschgIbhr6ELbWXzhg4CGlrpAH8UCqKDwZ5A==

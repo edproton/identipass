@@ -4,9 +4,7 @@ public record RegisterUserCommand(
     string Email,
     string Password,
     string ConfirmPassword,
-    string? Username,
-    string? FirstName,
-    string? LastName) : IRequest<Result<Guid>>;
+    string? Username) : IRequest<Result<Guid>>;
 
 public class RegisterUserCommandHandler(
     ILogger logger,
@@ -19,28 +17,26 @@ public class RegisterUserCommandHandler(
         {
             return Result.Failure<Guid>(UserErrors.PasswordsDoNotMatch);
         }
+        
+        var existingUserByEmail = await usersRepository.GetUserByEmail(request.Email, cancellationToken);
+        if (existingUserByEmail is not null)
+        {
+            return Result.Failure<Guid>(UserErrors.EmailAlreadyTaken);
+        }
 
         if (request.Username is not null)
         {
             var existingUserByName = await usersRepository.GetUserByUsername(request.Username, cancellationToken);
             if (existingUserByName is not null)
             {
-                return Result.Failure<Guid>(UserErrors.UsernameOrEmailRequired);
+                return Result.Failure<Guid>(UserErrors.UsernameAlreadyTaken);
             }
         }
-
-        var existingUserByEmail = await usersRepository.GetUserByEmail(request.Email, cancellationToken);
-        if (existingUserByEmail is not null)
-        {
-            return Result.Failure<Guid>(UserErrors.EmailAlreadyExists(request.Email));
-        }
-
+  
         var user = new User
         {
             Email = request.Email,
             Password = passwordService.HashPassword(request.Password),
-            FirstName = request.FirstName,
-            LastName = request.LastName,
             Username = request.Username,
         };
 

@@ -14,7 +14,15 @@ public static class ResultExtensions
             StatusCode = GetStatusCode(result.Error.Type),
             Value = new Dictionary<string, object>()
             {
-                { "errors", new[] { result.Error } }
+                { "errors", new[]
+                {
+                    new
+                    {
+                        result.Error.Code,
+                        result.Error.Message,
+                        Type = result.Error.Type.ToString(),
+                    }
+                } }
             }
         };
     }
